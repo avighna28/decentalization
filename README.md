@@ -21,6 +21,6 @@ To empower organizations and communities to conduct tamper-proof, trustless, and
 - Integration with decentralized identity (DID) systems
 
 ## 📜 Contract Details
-0x1257De6845726921D704F536DcaBC4D69eE7b6380
+0x1257De6845726921D704F536DcaBC4D69eE7b638
 ![WhatsApp Image 2025-07-07 at 3 32 27 PM](https://github.com/user-attachments/assets/342a9004-457c-4f41-ad5b-019af17aa882)
 
